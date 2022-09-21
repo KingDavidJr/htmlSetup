@@ -5,10 +5,9 @@ htmlCode = """<!DOCTYPE html>
 <html lang = "en">
     <head>
         <meta charset = "utf-8">
-        <title>Enter Title</title>
+        <title>[Enter Title]</title>
     </head>
         <body>
-            <p>Hi</p>
         </body>
 <html>
 """
