@@ -1,7 +1,6 @@
 import os.path
 
-htmlCode = """
-<!DOCTYPE html>
+htmlCode = """<!DOCTYPE html>
 
 <html lang = "en">
     <head>
